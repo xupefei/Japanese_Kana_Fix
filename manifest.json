@@ -1,0 +1,8 @@
+{
+  "name": "Japanese Kana Fix",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Fix the font of Japanese kana on zh-CN and zh-TW Windows OS.",
+  "options_page": "dummy.html",
+  "permissions": ["experimental"]
+}
